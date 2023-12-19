@@ -19,4 +19,4 @@ HW-827, ESP32-C3, Jumper Wires, PCB Board
    -It is of 32 bits.
 
 3. PCB and Hardware
-   ![PCB][PCB.jpeg]
+   ![PCB][[(https://github.com/sakshid2706/Pulse-sensor/blob/becf6324b09756cd0810eca44f809cf60e0a26db/PCB.jpeg)https://github.com/sakshid2706/Pulse-sensor/blob/becf6324b09756cd0810eca44f809cf60e0a26db/PCB.jpeg]
