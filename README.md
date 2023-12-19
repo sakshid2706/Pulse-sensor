@@ -1,11 +1,11 @@
 # Pulse-sensor
-#AIM
+## AIM
 -To demonstrate a PCB level prototype of a wireless wrist pulse recording waveform.
 
-#APPARATUS REQUIRED
+## APPARATUS REQUIRED
 -HW-827, ESP32-C3, Jumper Wires, PCB Board
 
-#Theory
+## Theory
 1. Pulse Sensor
    -A pulse sensor, works by shining a green light (~ 550nm) on the finger and measuring the amount of reflected light with a photosensor.
    -This optical pulse detection technique is known as a Photoplethysmogram.
